@@ -1,0 +1,29 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: sans-serif;
+	color: black;
+}
+.container {
+	margin: 0 auto;
+	width: 950px;
+	height: 950px;
+	padding: 25px;
+
+	background-color: white
+}
+.profile_pic {
+	width: 100px;
+	display: inline-block;
+}
+.nav ul, li{
+	display: inline-block;
+	padding: 0 10px;
+}
+h1 {
+	display: inline-block;
+}
+a {
+	text-decoration: none;
+	color: grey;
+}
